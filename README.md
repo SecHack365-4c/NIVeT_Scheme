@@ -1,0 +1,2 @@
+# NIVeT_Scheme
+NIVeTが提供するスキャナーのスキーマ管理用
