@@ -1,0 +1,12 @@
+{
+    "login_url": "/login.cgi",
+    "login_elements": {
+        "input_username_element": "#form_USERNAME",
+        "input_password_element": "#form_PASSWORD"
+    },
+    "login_button_selector": ".button_login",
+    "logout_button_selector": ".status_logout",
+    "page_transition": "",
+    "model_selector": "#MODEL2",
+    "version_selector": "#VERSION"
+}
